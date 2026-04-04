@@ -132,3 +132,73 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+================================================================================
+
+Third-Party Services, APIs and Content Disclaimer
+
+This application uses third-party APIs and services to retrieve publicly available media metadata and stream information.
+
+Radio Browser API
+
+This application uses the Radio Browser API, a free and community-maintained directory of internet radio stations.
+
+Radio Browser provides metadata about publicly available radio streams, including station names, stream URLs, icons, tags, and related information. The service functions solely as a directory of publicly available radio stations and does not host, own, control, or distribute the radio streams themselves.
+
+All radio streams are provided directly by the respective radio stations or their authorized broadcasters. This application does not host, store, cache, or retransmit any radio stream content. The application only accesses publicly available stream URLs listed in the Radio Browser database.
+
+More information:
+https://www.radio-browser.info
+
+Podcast Index API
+
+This application uses the Podcast Index API, provided by Podcast Index LLC, to retrieve podcast metadata and RSS feeds.
+
+Podcast Index maintains a public index of podcast RSS feeds and related metadata. Podcast audio files are hosted and distributed by the original podcast publishers via their own RSS feeds and servers.
+
+This application does not host, distribute, or store podcast audio content. The application only retrieves publicly available metadata and RSS feed information provided by Podcast Index and accesses media files directly from the podcast publisher's servers.
+
+Use of the Podcast Index API is subject to the Podcast Index Terms of Service.
+
+More information:
+https://podcastindex.org
+
+Third-Party Content
+
+All radio stations, podcasts, logos, trademarks, stream URLs, and audio content available through the application belong to their respective owners and publishers.
+
+This application acts solely as a client interface that allows users to discover and play publicly available internet radio streams and podcast feeds.
+
+The developers of this application do not claim ownership of any third-party media content and do not host or distribute copyrighted material.
+
+Stream and Content Availability
+
+The availability, quality, and legality of radio streams and podcast feeds are the responsibility of the respective broadcasters and publishers.
+
+The developers of this application do not guarantee that any stream or podcast will remain available, functional, or accurate at any time.
+
+Streams and feeds may change, become unavailable, or be removed without notice.
+
+Copyright and Content Removal
+
+If you are a copyright owner or authorized representative and believe that your content is being referenced improperly through this application, you may request removal of the corresponding listing.
+
+Content removal requests should be directed to the respective directory service provider or the original publisher hosting the content.
+
+Upon valid request, the developers of this application may also remove references to the content from future versions of the application when technically feasible.
+
+Limitation of Liability
+
+The developers of this application are not responsible for the content, legality, availability, or reliability of any third-party radio stream, podcast feed, or media source accessed through the application.
+
+Use of the application and any third-party media accessed through it is at the user's own risk.
+
+Trademarks
+
+All product names, logos, brands, and trademarks referenced in this application are the property of their respective owners.
+
+Their use in this application is for identification and informational purposes only and does not imply endorsement or affiliation.
+
+This application does not host or distribute copyrighted audio content.
+All streams and podcasts are provided directly by their respective publishers.
+
