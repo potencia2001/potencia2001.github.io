@@ -202,3 +202,41 @@ Their use in this application is for identification and informational purposes o
 This application does not host or distribute copyrighted audio content.
 All streams and podcasts are provided directly by their respective publishers.
 
+================================================================================
+
+Kokoro-82M Text-to-Speech Model
+Copyright (c) 2024-2025 hexgrad
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+Source: https://huggingface.co/hexgrad/Kokoro-82M
+ONNX Model: https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX
+
+================================================================================
+
+Misaki G2P (Grapheme-to-Phoneme)
+Copyright (c) 2024-2025 hexgrad
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+Source: https://github.com/hexgrad/misaki
