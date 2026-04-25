@@ -307,5 +307,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-Original implementation: https://github.com/breizhn/DTLN
+Original research: https://github.com/breizhn/DTLN
+Models sourced from: https://huggingface.co/niobures/DTLN (ailia-models optimized version)
 
