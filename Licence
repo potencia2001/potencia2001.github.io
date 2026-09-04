@@ -332,3 +332,15 @@ This product includes software developed by The Android Open Source Project.
 A complete copy of the Apache License, Version 2.0, is included with this application and is available at:
 
 https://www.apache.org/licenses/LICENSE-2.0
+
+========================================================================
+
+
+Frame-VAD Multilingual MarbleNet v2.0
+
+Licensed by NVIDIA Corporation under the NVIDIA Open Model License.
+
+Upstream model:
+https://huggingface.co/nvidia/Frame_VAD_Multilingual_MarbleNet_v2.0
+
+The complete NVIDIA Open Model License Agreement is distributed with the model.
