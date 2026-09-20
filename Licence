@@ -344,3 +344,23 @@ Upstream model:
 https://huggingface.co/nvidia/Frame_VAD_Multilingual_MarbleNet_v2.0
 
 The complete NVIDIA Open Model License Agreement is distributed with the model.
+
+========================================================================
+
+Pocket TTS
+
+This application includes or makes use of Pocket TTS software developed by Kyutai.
+
+Pocket TTS software:
+Copyright © Kyutai contributors.
+Licensed under the MIT License.
+
+Pocket TTS model weights:
+Licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+Model source: https://huggingface.co/kyutai/pocket-tts
+
+The Pocket TTS models may be used commercially, modified, and redistributed subject to the attribution and notice requirements of the applicable licenses.
+
+Use of voice cloning must comply with applicable laws and requires the explicit and lawful consent of the person whose voice is being cloned. The software must not be used for impersonation, fraud, deception, misinformation, harassment, privacy violations, or other unlawful or unauthorized purposes.
+
+Pocket TTS and its model weights are provided “as is”, without warranties or conditions of any kind.
